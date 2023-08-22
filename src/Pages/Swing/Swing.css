@@ -1,0 +1,19 @@
+.ols{
+    
+    font-size: large;
+    color: green;
+
+
+}
+
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    font-size: large;
+    font-style: italic;
+    text-shadow: 2px 2px #f6e1e1;
+    cursor: pointer;
+    
+   
+}

@@ -1,0 +1,22 @@
+.Menu{
+    width: 15%;
+    background-color:aliceblue;
+    border: 2px solid rgb(251, 247, 255);
+    border-radius:  0cm 0.7cm 0.7cm 0cm;
+    height: 17.5cm;
+    z-index: 1;
+    position: relative;
+    
+   
+    
+}
+@media  screen and (max-width: 600px) {
+    .Menu {
+      background-color: lightblue;
+      position: relative;
+      display: inline;
+      height: 2%;
+      width: 100%;
+      z-index: 1;
+    }
+  }

@@ -1,0 +1,15 @@
+.olt{
+    color: rgb(72, 0, 255);
+    font-size: large;
+    cursor: pointer;
+
+
+}
+
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    
+   
+}

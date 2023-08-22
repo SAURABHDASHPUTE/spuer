@@ -1,0 +1,19 @@
+.Header{
+    background-color: red;
+    
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+.link{
+    color: white;
+    text-decoration: none;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: italic;
+   text-align: center;
+   
+   text-shadow: 2px 2px 8px #b0f495;
+   
+}
